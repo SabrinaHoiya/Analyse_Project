@@ -5,7 +5,7 @@ Il s'agit de plusieurs interfaces Tkinter(Bibliothèque GUI en Python) qui perme
   * Caculer et représenter  l'intégrale d'une Fonction f(x) en utilisant les méthodes suivants
 
 	#### 1. Méthode des trapèzes
-	![Analyse_Project_f](https://github.com/SabrinaHoiya/Analyse_Project/tree/main/Analyse_Project_f.Demo1.gif)
+	![](Demo1.gif)
 	
 	#### 2.Méthode de Simpson.
 	#### 3.Méthode des Réctangles.
